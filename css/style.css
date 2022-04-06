@@ -729,6 +729,7 @@ a:focus {
 .service .service-img {
     position: relative;
     overflow: hidden;
+    
 }
 
 .service .service-img img {
